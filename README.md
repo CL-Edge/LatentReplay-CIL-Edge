@@ -4,11 +4,11 @@
 Impact of different number of elements in the replay buffer on different models on CIFAR-10.
 <div style="display: flex; justify-content: space-between;">
     <img src="Images/CIFAR10_Ele_0.8-0.75-8 PhiNet DS.png" alt="Image 1" style="width: 49%;">
-    <img src="Images/CIFAR10_Ele_0.9-0.5-4 PhiNet DS.png" alt="Image 2" style="width: 49%;">
+    <img src="Images/CIFAR10_Ele_0.9-0.5-4 PhiNet DS.png" alt="Image 2" style="width: 49%;"><br>
     <img src="Images/CIFAR10_Ele_0.9-0.5-4 PhiNetDS DE.png" alt="Image 3" style="width: 49%;">
-    <img src="Images/CIFAR10_Ele_1.2-0.5-6 PhiNet DS.png" alt="Image 4" style="width: 49%;">
+    <img src="Images/CIFAR10_Ele_1.2-0.5-6 PhiNet DS.png" alt="Image 4" style="width: 49%;"><br>
     <img src="Images/CIFAR10_Ele_MobileNetV1.png" alt="Image 5" style="width: 49%;">
-    <img src="Images/CIFAR10_Ele_MobileNetV2.png" alt="Image 6" style="width: 49%;">
+    <img src="Images/CIFAR10_Ele_MobileNetV2.png" alt="Image 6" style="width: 49%;"><br>
     <img src="Images/CIFAR10_Ele_0.75 MobileNetV2.png" alt="Image 7" style="width: 49%;">
 </div>
 
