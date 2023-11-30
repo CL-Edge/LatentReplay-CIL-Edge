@@ -14,7 +14,7 @@ Impact of different number of elements in the replay buffer on different models 
 
 ### CORe50
 Impact of different number of elements in the replay buffer on different models on CORe50.
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <img src="Images/CORe50_Ele_0.8-0.75-8 PhiNet DS.png" alt="Image 1" style="width: 49%;">
     <img src="Images/CORe50_Ele_0.9-0.5-4 PhiNet DS.png" alt="Image 2" style="width: 49%;">
     <img src="Images/CORe50_Ele_0.9-0.5-4 PhiNetDS DE.png" alt="Image 3" style="width: 49%;">
@@ -34,7 +34,7 @@ Comparison of the latent activation size and MAC of the selected layer between d
 ## Memory-Performance Trade-off Evaluation
 ### CIFAR-10
 Performance comparison on CIFAR-10 dataset using different models and fixed maximum value for the replay buffer.
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <img src="Images/CIFAR10_0.5.png" alt="Image 1" style="width: 49%;">
     <img src="Images/CIFAR10_2.png" alt="Image 2" style="width: 49%;">
     <img src="Images/CIFAR10_5.png" alt="Image 3" style="width: 49%;">
@@ -45,7 +45,7 @@ Performance comparison on CIFAR-10 dataset using different models and fixed maxi
 </div>
 
 Evaluation of the models on CIFAR-10 using different maximum values for the replay buffer.
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <img src="Images/CIFAR10_0.8-0.75-8 PhiNet DS.png" alt="Image 1" style="width: 49%;">
     <img src="Images/CIFAR10_0.9-0.5-4 PhiNet DS.png" alt="Image 2" style="width: 49%;">
     <img src="Images/CIFAR10_0.9-0.5-4 PhiNetDS DE.png" alt="Image 3" style="width: 49%;">
@@ -57,7 +57,7 @@ Evaluation of the models on CIFAR-10 using different maximum values for the repl
 
 ### CORe50
 Performance comparison on CORe50 dataset using different models and fixed maximum value for the replay buffer.
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <img src="Images/CORe50_0.5.png" alt="Image 1" style="width: 49%;">
     <img src="Images/CORe50_2.png" alt="Image 2" style="width: 49%;">
     <img src="Images/CORe50_5.png" alt="Image 3" style="width: 49%;">
@@ -68,7 +68,7 @@ Performance comparison on CORe50 dataset using different models and fixed maximu
 </div>
 
 Evaluation of the models on CORe50 using different maximum values for the replay buffer.
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <img src="Images/CORe50_0.8-0.75-8 PhiNet DS.png" alt="Image 1" style="width: 49%;">
     <img src="Images/CORe50_0.9-0.5-4 PhiNet DS.png" alt="Image 2" style="width: 49%;">
     <img src="Images/CORe50_0.9-0.5-4 PhiNetDS DE.png" alt="Image 3" style="width: 49%;">
