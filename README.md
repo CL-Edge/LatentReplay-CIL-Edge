@@ -2,7 +2,7 @@
 ## Data Efficiency
 ### CIFAR-10
 Impact of different number of elements in the replay buffer on different models on CIFAR-10.
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <img src="Images/CIFAR10_Ele_0.8-0.75-8 PhiNet DS.png" alt="Image 1" style="width: 49%;">
     <img src="Images/CIFAR10_Ele_0.9-0.5-4 PhiNet DS.png" alt="Image 2" style="width: 49%;">
     <img src="Images/CIFAR10_Ele_0.9-0.5-4 PhiNetDS DE.png" alt="Image 3" style="width: 49%;">
