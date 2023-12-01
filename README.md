@@ -24,7 +24,7 @@ Impact of different number of elements in the replay buffer on different models 
     <img src="Images/CORe50_Ele_0.75 MobileNetV2.png" alt="Image 7" style="width: 49%;">
 </div>
 
-## Memory Evaluation
+## Memory Effiency
 Comparison of the latent activation size and MAC of the selected layer between different models. Dimensions refer to a single sample.
 
 <div style="display: flex; justify-content: space-between;">
